@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RE/RE-1.md",
+                "file": "RE/x86/RE-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RE-1"
+              "title": "RE-10"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RE/RE-1.md",
+                "file": "RE/x86/RE-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RE-1"
+              "title": "Outgoing links from RE-10"
             }
           },
           {
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,19 +196,36 @@
   },
   "active": "4e2f7af028aa59f2",
   "lastOpenFiles": [
+    "RE/code/x86/RE-12.c",
+    "RE/code/x86",
+    "RE/code",
+    "RE/x86/RE-12.md~",
+    "RE/x86/RE-9.md",
+    "RE/x86/RE-8.md",
+    "RE/x86/RE-7.md",
+    "RE/x86/RE-6.md",
+    "RE/x86/RE-5.md",
+    "RE/x86/RE-4.md",
+    "RE/x86/RE-3.md",
+    "RE/x86/RE-2.md",
+    "RE/x86/RE-1.md",
+    "RE/assets/registers.jpg",
+    "RE/assets/registers_2.jpg",
+    "RE/assets",
+    "RE/RE-TOC.md~",
+    "RE/RE-1.md",
+    "RE/x86/RE-12.md",
+    "RE/x86/RE-11.md",
+    "RE/x86/RE-10.md",
+    "RE/x86",
+    "RE/RE-12.md~",
     "RE/RE-11.md~",
+    "RE/RE-12.md",
     "RE/RE-11.md",
     "RE/RE-TOC.md",
     "RE/RE-10.md",
     "RE/RE-10.md~",
-    "RE/RE-TOC.md~",
     "a.out",
-    "RE/moving_immediate_data.s~",
-    "RE/moving_immediate_data_intel.s~",
-    "RE/moving_immediate_data_intel.s",
-    "RE/moving_immediate_data",
-    "RE/moving_immediate_data.o",
-    "RE/moving_immediate_data.s",
     "RE/registers_2.jpg",
     "RE/registers_2.png",
     "RE/registers.jpg",
@@ -220,9 +236,6 @@
     "RE/RE-5.md",
     "RE/RE-4.md",
     "RE/RE-3.md",
-    "RE/RE-1.md",
-    "RE-3.md",
-    "RE/RE-2.md",
-    "Untitled.md"
+    "RE-3.md"
   ]
 }

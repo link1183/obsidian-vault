@@ -9,6 +9,8 @@ tags:
 
 [Source](https://0xinfection.github.io/reversing/)
 
+# x86 course
+
 1. Goals of reverse engineering: [[RE-1]]
 2. Techniques of reverse engineering: [[RE-2]]
 3. Types of malware: [[RE-3]]
@@ -20,3 +22,4 @@ tags:
 9. x86 Basic Architecture: [[RE-9]]
 10. IA-32 Architecture and General-purpose registers: [[RE-10]]
 11. Segment registers: [[RE-11]]
+12. Instruction pointer register: [[RE-12]]
