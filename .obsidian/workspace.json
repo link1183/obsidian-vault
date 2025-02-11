@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "RE/x86/RE-10.md",
+                "file": "RE/x86/RE-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RE-10"
+              "title": "RE-12"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RE/x86/RE-10.md",
+                "file": "RE/x86/RE-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from RE-10"
+              "title": "Outgoing links from RE-12"
             }
           },
           {
@@ -196,12 +196,13 @@
   },
   "active": "4e2f7af028aa59f2",
   "lastOpenFiles": [
+    "RE/x86/RE-12.md~",
+    "RE/x86/RE-10.md",
     "RE/code/x86/RE-12",
     "RE/code/x86/RE-12.c~",
     "RE/code/x86/RE-12.c",
     "RE/code/x86",
     "RE/code",
-    "RE/x86/RE-12.md~",
     "RE/x86/RE-9.md",
     "RE/x86/RE-8.md",
     "RE/x86/RE-7.md",
@@ -218,10 +219,8 @@
     "RE/RE-1.md",
     "RE/x86/RE-12.md",
     "RE/x86/RE-11.md",
-    "RE/x86/RE-10.md",
     "RE/x86",
     "RE/RE-12.md~",
-    "RE/RE-11.md~",
     "RE/RE-12.md",
     "RE/RE-11.md",
     "RE/RE-TOC.md",
