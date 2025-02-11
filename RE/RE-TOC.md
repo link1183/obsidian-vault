@@ -23,3 +23,4 @@ tags:
 10. IA-32 Architecture and General-purpose registers: [[RE-10]]
 11. Segment registers: [[RE-11]]
 12. Instruction pointer register: [[RE-12]]
+13. Control registers: [[RE-13]]
