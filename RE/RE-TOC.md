@@ -24,3 +24,4 @@ tags:
 11. Segment registers: [[RE-11]]
 12. Instruction pointer register: [[RE-12]]
 13. Control registers: [[RE-13]]
+14. Flags: [[RE-14]]
