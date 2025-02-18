@@ -195,8 +195,9 @@
   },
   "active": "a991686cdd2d73dc",
   "lastOpenFiles": [
-    "RE/code/x86/21/exit.o",
     "RE/x86/RE-21.md~",
+    "RE/code/x86/21/exit",
+    "RE/code/x86/21/exit.o",
     "RE/code/x86/21/exit.s~",
     "RE/code/x86/21/exit.s",
     "RE/code/x86/21/exit.c",
@@ -207,7 +208,6 @@
     "RE/x86/RE-21.md",
     "RE/RE-TOC.md~",
     "RE/x86/RE-20.md~",
-    "RE/code/x86/20/test",
     "RE/x86/RE-16.md",
     "RE/x86/RE-19.md",
     "RE/assets/heap_1.png",
