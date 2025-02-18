@@ -7,7 +7,7 @@ tags:
   - x86
 ---
 
-[[re-toc]]
+[[RE-TOC]]
 
 # The binary number system
 

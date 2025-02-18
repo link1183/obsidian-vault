@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "37edb13c99622bc0",
+        "id": "253c4297c3c8ef35",
         "type": "tabs",
         "children": [
           {
-            "id": "4e2f7af028aa59f2",
+            "id": "a991686cdd2d73dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "RE/x86/RE-15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RE-15"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -193,30 +189,32 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c16a648ad04b13e",
+  "active": "a991686cdd2d73dc",
   "lastOpenFiles": [
+    "RE/x86/RE-15.md",
+    "RE/RE-TOC.md",
+    "RE/x86/RE-6.md",
+    "RE/x86/RE-16.md~",
+    "RE/x86/RE-7.md~",
+    "RE/x86/RE-5.md~",
+    "RE/x86/RE-6.md~",
+    "RE/RE-TOC.md~",
+    "RE/x86/RE-16.md",
     "RE/x86/RE-15.md~",
     "RE/assets/stack_frame_3.png",
     "RE/assets/stack_frame_2.png",
     "RE/code/x86/RE-15.c~",
     "RE/code/x86/RE-15.c",
     "RE/assets/stack_frame_1.png",
-    "RE/x86/RE-15.md",
     "RE/reversing-for-everyone.pdf",
     "RE/x86/RE-14.md~",
-    "RE/RE-TOC.md~",
     "RE/x86/RE-14.md",
-    "RE/x86/RE-13.md~",
-    "RE/x86/RE-10.md~",
-    "RE/x86/RE-11.md~",
-    "RE/x86/RE-12.md~",
     "RE/x86/RE-12.md",
     "RE/x86/RE-13.md",
     "RE/x86/RE-10.md",
     "RE/x86/RE-9.md",
     "RE/x86/RE-8.md",
     "RE/x86/RE-7.md",
-    "RE/x86/RE-6.md",
     "RE/x86/RE-5.md",
     "RE/x86/RE-4.md",
     "RE/x86/RE-3.md",
@@ -228,7 +226,6 @@
     "RE/x86/RE-11.md",
     "RE/RE-12.md",
     "RE/RE-11.md",
-    "RE/RE-TOC.md",
     "RE/RE-10.md",
     "RE/registers_2.jpg",
     "RE/registers_2.png",
@@ -236,7 +233,6 @@
     "RE/RE-9.md",
     "RE/RE-8.md",
     "RE/RE-7.md",
-    "RE/RE-6.md",
-    "RE/RE-5.md"
+    "RE/RE-6.md"
   ]
 }

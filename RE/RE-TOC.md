@@ -26,3 +26,4 @@ tags:
 13. Control registers: [[RE-13]]
 14. Flags: [[RE-14]]
 15. Stack: [[RE-15]]
+16. Heap: [[RE-16]]

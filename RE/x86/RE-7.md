@@ -7,7 +7,7 @@ tags:
   - x86
 ---
 
-[[re-toc]]
+[[RE-TOC]]
 
 # Transistors and memory
 
