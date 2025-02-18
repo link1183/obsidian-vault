@@ -25,3 +25,4 @@ tags:
 12. Instruction pointer register: [[RE-12]]
 13. Control registers: [[RE-13]]
 14. Flags: [[RE-14]]
+15. Stack: [[RE-15]]
