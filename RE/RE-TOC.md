@@ -29,4 +29,5 @@ tags:
 16. Heap: [[RE-16]]
 17. Installing Linux
 18. Vim
-19. Why Learn Assembly: [[RE-19]]
+19. Why Learn Assembly
+20. Instruction Code Handling: [[RE-20]]
