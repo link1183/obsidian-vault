@@ -195,7 +195,10 @@
   },
   "active": "2c16a648ad04b13e",
   "lastOpenFiles": [
+    "RE/x86/RE-19.md~",
     "RE/x86/RE-16.md~",
+    "RE/x86/RE-19.md",
+    "RE/RE-TOC.md~",
     "RE/assets/heap_1.png",
     "RE/x86/RE-15.md",
     "RE/RE-TOC.md",
@@ -203,7 +206,6 @@
     "RE/x86/RE-7.md~",
     "RE/x86/RE-5.md~",
     "RE/x86/RE-6.md~",
-    "RE/RE-TOC.md~",
     "RE/x86/RE-16.md",
     "RE/x86/RE-15.md~",
     "RE/assets/stack_frame_3.png",
@@ -237,7 +239,6 @@
     "RE/registers.jpg",
     "RE/RE-9.md",
     "RE/RE-8.md",
-    "RE/RE-7.md",
-    "RE/RE-6.md"
+    "RE/RE-7.md"
   ]
 }

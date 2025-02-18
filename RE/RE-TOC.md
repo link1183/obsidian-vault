@@ -27,3 +27,6 @@ tags:
 14. Flags: [[RE-14]]
 15. Stack: [[RE-15]]
 16. Heap: [[RE-16]]
+17. Installing Linux
+18. Vim
+19. Why Learn Assembly: [[RE-19]]
