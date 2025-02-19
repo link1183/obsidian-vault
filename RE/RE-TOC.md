@@ -39,3 +39,4 @@ tags:
 26. ASM Debugging 2 - Moving data between registers: [[RE-26]]
 27. ASM Hacking 2 - Moving data between registers: [[RE-27]]
 28. ASM Program 3 - Moving data between registers and memory: [[RE-28]]
+29. ASM Debugging 3 - Moving data between registers and memory: [[RE-29]]
