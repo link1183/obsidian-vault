@@ -35,3 +35,6 @@ tags:
 22. ASM Program 1 - Moving immediate data: [[RE-22]]
 23. ASM Debugging 1 - Moving immediate data: [[RE-23]]
 24. ASM Hacking 1 - Moving immediate data: [[RE-24]]
+25. ASM Program 2 - Moving data between registers: [[RE-25]]
+26. ASM Debugging 2 - Moving data between registers: [[RE-26]]
+27. ASM Hacking 2 - Moving data between registers: [[RE-27]]
