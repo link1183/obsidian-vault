@@ -11,10 +11,12 @@
             "id": "f92fb068c7af4c7f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "RE/assets/ASM_1.png"
+              },
+              "icon": "lucide-image",
+              "title": "ASM_1"
             }
           }
         ]
@@ -74,8 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b7f901fc2e620e2e",
@@ -191,8 +192,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f92fb068c7af4c7f",
+  "active": "2c16a648ad04b13e",
   "lastOpenFiles": [
+    "RE/x86/RE-22.md",
+    "RE/assets/ASM_1.png",
     "RE/x86/RE-22.md~",
     "RE/code/x86/22/moving_immediate_data.asm",
     "RE/code/x86/22/moving_immediate_data",
@@ -201,11 +204,9 @@
     "RE/x86/RE-21.md",
     "RE/x86/RE-21.md~",
     "RE/RE-TOC.md~",
-    "RE/x86/RE-22.md",
     "RE/code/x86/21/exit__s",
     "RE/code/x86/21/exit__s.o",
     "RE/code/x86/21/exit__s.s",
-    "RE/code/x86/21/exit",
     "RE/x86/RE-20.md",
     "RE/x86/RE-16.md",
     "RE/x86/RE-19.md",
