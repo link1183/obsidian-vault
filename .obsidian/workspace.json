@@ -175,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +191,9 @@
   },
   "active": "f92fb068c7af4c7f",
   "lastOpenFiles": [
-    "RE/x86/RE-32.md~",
     "RE/x86/RE-31.md~",
+    "RE/x86/RE-32.md~",
+    "RE/code/x86/31/a.out",
     "RE/code/x86/31/moving_data_between_registers_and_memory",
     "RE/code/x86/31/moving_data_between_registers_and_memory.o",
     "RE/code/x86/31/moving_data_between_registers_and_memory.s",
@@ -205,7 +205,6 @@
     "RE/x86/RE-29.md~",
     "RE/x86/RE-31.md",
     "RE/code/x86/30/moving_data_between_memory_and_registers",
-    "RE/code/x86/30",
     "RE/x86/RE-30.md",
     "RE/x86/RE-29.md",
     "RE/x86/RE-28.md",
