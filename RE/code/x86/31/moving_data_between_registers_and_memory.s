@@ -13,3 +13,8 @@ _start:
 mov_immediate_data_between_registers_and_memory:
   movl $777, %eax
   movl %eax, constant
+
+exit:
+  movl $1, %eax
+  movl $0, %ebx
+  int $0x80
