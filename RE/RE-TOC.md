@@ -34,3 +34,4 @@ tags:
 21. Compiling a program: [[RE-21]]
 22. ASM Program 1 - Moving immediate data: [[RE-22]]
 23. ASM Debugging 1 - Moving immediate data: [[RE-23]]
+24. ASM Hacking 1 - Moving immediate data: [[RE-24]]
