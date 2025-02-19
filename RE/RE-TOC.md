@@ -32,3 +32,4 @@ tags:
 19. Why Learn Assembly
 20. Instruction Code Handling: [[RE-20]]
 21. Compiling a program: [[RE-21]]
+22. ASM Program 1 - Moving immediate data: [[RE-22]]
