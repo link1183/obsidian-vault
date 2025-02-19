@@ -189,8 +189,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f92fb068c7af4c7f",
+  "active": "5fc6e10b6bdd07b2",
   "lastOpenFiles": [
+    "cpp/example1",
+    "cpp/a.out",
+    "cpp/example1.cpp",
+    "cpp",
     "RE/x86/RE-31.md~",
     "RE/x86/RE-32.md~",
     "RE/code/x86/31/a.out",
@@ -200,11 +204,7 @@
     "RE/code/x86/31",
     "RE/x86/RE-33.md",
     "RE/x86/RE-32.md",
-    "RE/RE-TOC.md~",
-    "RE/x86/RE-30.md~",
-    "RE/x86/RE-29.md~",
     "RE/x86/RE-31.md",
-    "RE/code/x86/30/moving_data_between_memory_and_registers",
     "RE/x86/RE-30.md",
     "RE/x86/RE-29.md",
     "RE/x86/RE-28.md",
