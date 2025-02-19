@@ -11,12 +11,10 @@
             "id": "f92fb068c7af4c7f",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "RE/assets/ASM_1.png"
-              },
-              "icon": "lucide-image",
-              "title": "ASM_1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -192,22 +190,23 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2c16a648ad04b13e",
+  "active": "f92fb068c7af4c7f",
   "lastOpenFiles": [
+    "RE/x86/RE-23.md~",
     "RE/x86/RE-22.md",
-    "RE/assets/ASM_1.png",
     "RE/x86/RE-22.md~",
+    "RE/x86/RE-23.md",
+    "RE/RE-TOC.md~",
+    "RE/x86/RE-21.md",
+    "RE/x86/RE-20.md",
+    "RE/assets/ASM_1.png",
     "RE/code/x86/22/moving_immediate_data.asm",
     "RE/code/x86/22/moving_immediate_data",
     "RE/code/x86/22/moving_immediate_data.o",
     "RE/code/x86/22/moving_immediate_data.s",
-    "RE/x86/RE-21.md",
     "RE/x86/RE-21.md~",
-    "RE/RE-TOC.md~",
     "RE/code/x86/21/exit__s",
     "RE/code/x86/21/exit__s.o",
-    "RE/code/x86/21/exit__s.s",
-    "RE/x86/RE-20.md",
     "RE/x86/RE-16.md",
     "RE/x86/RE-19.md",
     "RE/assets/heap_1.png",
@@ -235,7 +234,6 @@
     "RE/x86/RE-11.md",
     "RE/RE-12.md",
     "RE/RE-11.md",
-    "RE/RE-10.md",
     "RE/registers_2.jpg",
     "RE/registers_2.png",
     "RE/registers.jpg"
