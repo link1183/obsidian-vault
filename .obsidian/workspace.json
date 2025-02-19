@@ -193,6 +193,8 @@
   "active": "f92fb068c7af4c7f",
   "lastOpenFiles": [
     "RE/x86/RE-23.md~",
+    "RE/code/x86/23/moving_immediate_data",
+    "RE/code/x86/23",
     "RE/x86/RE-22.md",
     "RE/x86/RE-22.md~",
     "RE/x86/RE-23.md",
@@ -206,7 +208,6 @@
     "RE/code/x86/22/moving_immediate_data.s",
     "RE/x86/RE-21.md~",
     "RE/code/x86/21/exit__s",
-    "RE/code/x86/21/exit__s.o",
     "RE/x86/RE-16.md",
     "RE/x86/RE-19.md",
     "RE/assets/heap_1.png",
