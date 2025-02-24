@@ -29,4 +29,6 @@ Standard for business process modeling that provides a graphical notation for sp
 
 <https://www.omg.org/bpmn/> (official specs)
 
-Provides a graphical notation for specifying business processes in a Business Process Diagram.
+Provides a graphical notation for specifying business processes in a Business Process Diagram. Its goal is to support Business Process by providing a standard notation tat is comprehensible to business users but also represents complex process semantics for technical users.
+
+Un BPMN (ou Business Process Model and Notation) est une norme graphique ayant pour but d'aider à la modélisation de processus métiers ou entreprises. Il propose une notation standard, ayant pour but d'être compréhensible pour les utilisateurs métiers, tout en gardant une représentation complexe des détails sémantiques pour les utilisateurs techniques.
