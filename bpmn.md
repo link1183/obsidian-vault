@@ -29,4 +29,4 @@ Standard for business process modeling that provides a graphical notation for sp
 
 <https://www.omg.org/bpmn/> (official specs)
 
-Provides a
+Provides a graphical notation for specifying business processes in a Business Process Diagram.
