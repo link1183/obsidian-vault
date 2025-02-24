@@ -28,3 +28,5 @@ Type de diagramme de flux utilisant des icônes standardisées pour représenter
 Standard for business process modeling that provides a graphical notation for specifying business processes. Based on a technique very similar to activity diagrams from UML.
 
 <https://www.omg.org/bpmn/> (official specs)
+
+Provides a

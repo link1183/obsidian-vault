@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,8 +190,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5fc6e10b6bdd07b2",
+  "active": "f92fb068c7af4c7f",
   "lastOpenFiles": [
+    "bpmn.md~",
+    "RE/x86/RE-1.md",
+    "RE/RE-TOC.md",
+    "RE/x86/RE-21.md",
     "cpp/example2.cpp~",
     "cpp/example2.cpp",
     "cpp/example1",
@@ -200,8 +205,6 @@
     "RE/x86/RE-31.md~",
     "RE/x86/RE-32.md~",
     "RE/code/x86/31/a.out",
-    "RE/code/x86/31/moving_data_between_registers_and_memory",
-    "RE/code/x86/31/moving_data_between_registers_and_memory.o",
     "RE/x86/RE-33.md",
     "RE/x86/RE-32.md",
     "RE/x86/RE-31.md",
@@ -214,14 +217,12 @@
     "RE/x86/RE-24.md",
     "RE/x86/RE-22.md",
     "RE/x86/RE-23.md",
-    "RE/x86/RE-21.md",
     "RE/x86/RE-20.md",
     "RE/assets/ASM_1.png",
     "RE/x86/RE-16.md",
     "RE/x86/RE-19.md",
     "RE/assets/heap_1.png",
     "RE/x86/RE-15.md",
-    "RE/RE-TOC.md",
     "RE/x86/RE-6.md",
     "RE/assets/stack_frame_3.png",
     "RE/assets/stack_frame_2.png",
@@ -231,7 +232,6 @@
     "RE/x86/RE-13.md",
     "RE/x86/RE-10.md",
     "RE/x86/RE-9.md",
-    "RE/x86/RE-8.md",
     "RE/assets/registers.jpg",
     "RE/assets/registers_2.jpg",
     "RE/registers_2.jpg",
