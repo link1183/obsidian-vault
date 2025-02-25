@@ -4,4 +4,5 @@ aliases:
   - ponthus
 tags:
   - apprenticeship
+  - classes
 ---

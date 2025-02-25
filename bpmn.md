@@ -1,10 +1,11 @@
 ---
 id: bpmn
-aliases: []
+aliases: 
 tags:
   - classes
   - 254-module
   - bpmn
+  - apprenticeship
 ---
 
 [lucidchart](https://www.lucidchart.com/pages/fr/bpmn#:~:text=un%20diagramme%20BPMN-,Qu%27est-ce%20qu%27un%20BPMN%20%3F,d%27un%20processus%20m%C3%A9tier%20planifi%C3%A9)
