@@ -4,39 +4,6 @@ aliases: []
 tags: []
 ---
 
-# Strat
-
-Bataille Cité des Rois:
-Air:
-1 barigeable enflammé, flanqué de 2 autres normaux, haute altitude, nuageux, entrent dans flotte ennemie
-Au dessus la partie abandonnée, 2 barigeables bombardent, puis lâchent les dragons contre les ennemis de plus haute altitude.
-1 barigeable bombarde les troupes coincées après le pont
-
-Eau:
-Forteresse, 6 bateaux restent dans le port pour bombarder la terre (3 de chaque coté), prêts à partir pour renfort
-
-Terre:
-lâche la première partie, chemin direct vers chateau bloqué
-Armée adverse passe le pont, destruction du pont (après bombardements bar barigeables)
-blocage des troupes ennemies et attaqué par nos troupes sur murs et montagnes (15'000 hommes par endroit)
-Druides lancent des sorts de pièges,...+ dernier barigeable bombarde (plus bas que les premiers, + de précision)
-Grande masse de l'armée devant la chateau (pas l'entrée brisée)
-
-Tonneau de sang pour la lame
-Stoquer les âmes le plus possible
-
-Armée:
-120000 fantassin = 8 figurines \* 15'000
-87 dragons
-6 barigeables
-33 navires de guerre
-47 druides
-
-Adverse:
-3 dragons pour chacun de nos dragons
-75 druides
-2 fantassins pour 1 des notres
-
 # Character
 
 Divine smite once for free :
@@ -50,17 +17,6 @@ Aura of protection:
 - +CHA mod to saving throws
 - Immune to charmed condition
 - Immune to frightened condition
-
-Active:
-
-Sacred weapon:
-
-- Can be used twice
-- For 10min, add charisma modifier to hit + replace normal damage with radiant damage
-
-Lay on hands:
-
-- Can heal up to 55 HPs in total by touching
 
 # Spells
 
@@ -87,7 +43,7 @@ Level 1
 
 ## Divine smite
 
-Target takes +2d8 radiant from an attack +1d8 if fiend or undead.
+Target takes +2d8 radiant from an attack +3d8 if fiend or undead.
 
 1 bonus action after hitting a target
 Level 1, +1d8 for each level
