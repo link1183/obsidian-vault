@@ -78,13 +78,6 @@ Creature I touch regains 2d8 + ability modifier
 1 action
 Level 1, +2d8 per level above
 
-## Detect evil and good
-
-For 10min, sense Neil's presence within 30ft
-
-1 action, concentration -> 10min
-Level 1
-
 ## Divine favor
 
 For 1min, add 1d4 radiants to hit damage
