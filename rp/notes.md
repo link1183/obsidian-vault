@@ -109,7 +109,7 @@ Level 1
 
 ## Searing smite
 
-target hit takes +1d6 fire, at the start of each of its turns the target takes 1d6, then makes a con saving throw, if failed the spell continues
+Target hit takes +1d6 fire, at the start of each of its turns the target takes 1d6, then makes a con saving throw, if failed the spell continues
 
 1 bonus action after hit, 1min
 Level 1, +1d6 for each level
