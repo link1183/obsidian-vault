@@ -20,6 +20,10 @@ MD012:
 # https://github.com/DavidAnson/markdownlint/blob/main/doc/md013.md
 MD013: false
 
+# Multiple h1
+# https://github.com/DavidAnson/markdownlint/blob/main/doc/md025.md
+MD025: false
+
 # Spaces after list markers
 # https://github.com/DavidAnson/markdownlint/blob/main/doc/md030.md
 MD030: false
