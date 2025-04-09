@@ -16,7 +16,7 @@ Multiple continents
 Different countries on each continent
 Different mechanics for each country
 
-More modern universe
+Interval between modern and medieval universe
 
 ## Scene idea
 
