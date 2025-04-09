@@ -1,7 +1,0 @@
-F' L' F' L2 B' L2 U2 L2 B' D2 F' R2 F' D' F' R D' F' D' U2 Fw' Uw2
-
-Edges:
-vp qt gs sb rd
-
-Corners:
-xc dg pm qw
