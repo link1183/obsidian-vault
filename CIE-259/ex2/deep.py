@@ -75,7 +75,7 @@ model.compile(loss="categorical_crossentropy", optimizer="adam", metrics=["accur
 # 5. Train the Model
 print("\n--- Training the Model ---")
 batch_size = 128
-epochs = 15
+epochs = 20
 
 history = model.fit(
     x_train, y_train, batch_size=batch_size, epochs=epochs, validation_split=0.1
