@@ -582,7 +582,6 @@ def plot_results(
     # output_dir = Path(__file__).parent
     # plt.savefig(output_dir / "regression_comparison.png", dpi=300)
     # Display the plot window
-    plt.show()
     plt.savefig("data.png")
 
 
