@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ideas.md",
+                "file": "rp/Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ideas"
+              "title": "Mechanics"
             }
           }
         ]
@@ -196,7 +196,13 @@
   },
   "active": "f92fb068c7af4c7f",
   "lastOpenFiles": [
+    "rp/General.md~",
+    "rp/General.md",
+    "rp/Scenes.md",
+    "ideas.md",
     "ideas.md~",
+    "rp/countries/conflicts.md~",
+    "rp/countries/conflicts.md",
     "rp/Mechanics.md~",
     "rp/countries/2.md~",
     "rp/countries/2.md",
@@ -204,13 +210,11 @@
     "rp/Scenes.md~",
     "rp/countries/1.md",
     "rp/countries",
-    "rp/Scenes.md",
     "Untitled.canvas",
     "rp/notes.md~",
     "Ponthus.md~",
     "bpmn.md",
     "Ponthus.md",
-    "ideas.md",
     "RE/x86/RE-1.md",
     "RE/x86/RE-2.md",
     "RE/x86/RE-3.md",
@@ -228,11 +232,7 @@
     "RE/x86/RE-15.md",
     "RE/x86/RE-16.md",
     "RE/x86/RE-20.md",
-    "RE/x86/RE-21.md",
-    "RE/x86/RE-22.md",
     "1740409889-RZIX.md~",
-    "bpmn.md~",
-    "cpp/example2.cpp~",
     "RE/assets/ASM_1.png",
     "RE/assets/heap_1.png",
     "RE/assets/stack_frame_3.png",
