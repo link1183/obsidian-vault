@@ -11,17 +11,10 @@
             "id": "f92fb068c7af4c7f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -235,7 +228,6 @@
     "RE/x86/RE-14.md",
     "RE/x86/RE-15.md",
     "RE/x86/RE-16.md",
-    "RE/x86/RE-20.md",
     "RE/assets/ASM_1.png",
     "RE/assets/heap_1.png",
     "RE/assets/stack_frame_3.png",
